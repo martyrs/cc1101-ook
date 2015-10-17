@@ -7,6 +7,7 @@
 **check docs/ for wiring**
 
 ## thanks
+- [Mike](https://github.com/miek)
 - [Samy](http://samy.pl/)
 - #rfcat
 
